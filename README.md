@@ -3,7 +3,7 @@
     * Instalação do Jupyter-Lab
     * Ambiente virtual
 * Atividades 
-    * Curso de Fundamentos de ETL com Python - DIO
+    * [Curso de Fundamentos de ETL com Python - DIO](https://github.com/JoseWRPereira/jupyter-lab/blob/main/CENIPA/cenipa.ipynb)
         *  CENIPA
 
 #
