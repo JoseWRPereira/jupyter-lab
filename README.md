@@ -3,9 +3,9 @@
     * Instalação do Jupyter-Lab
     * Ambiente virtual
 * Atividades 
-    * [Curso de Fundamentos de ETL com Python - DIO](https://github.com/JoseWRPereira/jupyter-lab/blob/main/CENIPA/cenipa.ipynb)
+    * [Curso de Fundamentos de ETL com Python - DIO](https://github.com/JoseWRPereira/jupyter-lab/blob/489b29eba52958c7c5833faf159fb6dcfa7fdb6e/DIO/cenipa.ipynb)
         *  CENIPA
-
+    * [Curso de Visualiação de Dados com Python - Coursera/IBM](https://github.com/JoseWRPereira/jupyter-lab/blob/489b29eba52958c7c5833faf159fb6dcfa7fdb6e/IBM/data_visualization.ipynb)
 #
 
 # Preparando o ambiente de trabalho
