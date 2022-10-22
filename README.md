@@ -5,7 +5,7 @@
 * Atividades 
     * [Curso de Fundamentos de ETL com Python - DIO](https://github.com/JoseWRPereira/jupyter-lab/blob/489b29eba52958c7c5833faf159fb6dcfa7fdb6e/DIO/cenipa.ipynb)
         *  CENIPA
-    * [Curso de Visualiação de Dados com Python - Coursera/IBM](https://github.com/JoseWRPereira/jupyter-lab/blob/489b29eba52958c7c5833faf159fb6dcfa7fdb6e/IBM/data_visualization.ipynb)
+    * [Curso de Visualiação de Dados com Python - Coursera/IBM](https://github.com/JoseWRPereira/jupyter-lab/blob/1d87cae21f95f6417f7c20d893289ee04ef60d65/Coursera-IBM/data_visualization.ipynb)
 #
 
 # Preparando o ambiente de trabalho
@@ -56,4 +56,4 @@ Extração > Validação > Limpeza > Transformação > Carregamento
 Fonte de dados: [CENIPA](https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira) - Base de dados de ocorrências aeronáuticas.
 
 
-#
+## Curso de Visualiação de Dados com Python - Coursera/IBM
