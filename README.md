@@ -57,3 +57,40 @@ Fonte de dados: [CENIPA](https://dados.gov.br/dataset/ocorrencias-aeronauticas-d
 
 
 ## Curso de Visualiação de Dados com Python - Coursera/IBM
+
+
+## Como estudar? [Seja um Data Scientist](https://youtu.be/VlYDWOfiFuc)
+
+### Planejamento
+* Em quanto tempo quero estar preparado? 
+* Linha do tempo
+* O que preciso saber para estar pronto para aplicar para vaga de Data Scientist?
+* Definir um tempo de estudo diário
+
+### Vídeos introdutórios
+* [Como Estudar Ciência de dados - Seja um Data Scientist](https://youtu.be/2g7TBUDkDhM)
+* [Como eu aprendo Machine Learning? - Seja um Data Scientist](https://youtu.be/wuQC9YUvXes)
+
+### Etapas de estudo
+* Dados
+* Linguagem de programação - Python
+* Modelos de Machine Learning
+* Visualização de dados e Storytelling
+* SQL
+
+
+* Estudos de caso (Ex: House Rocket)
+    * Elaborar perguntas sobre o caso e tentar responder com Manipulação e Análise de dados
+    * Manipulação de dados
+        * Biblioteca Pandas:
+            * Selecionar colunas
+            * Filtrar linhas
+            * Agregação (group by)
+            * Funções apply lambda
+            * União de dados (Merge, concat)
+    * Análise de dados
+        * Bibliotecas Seaborn e Matplolib
+            * Gráficos
+            * Correlações
+            * Validações
+
