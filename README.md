@@ -6,6 +6,7 @@
     * [Curso de Fundamentos de ETL com Python - DIO](https://github.com/JoseWRPereira/jupyter-lab/blob/489b29eba52958c7c5833faf159fb6dcfa7fdb6e/DIO/cenipa.ipynb)
         *  CENIPA
     * [Curso de Visualiação de Dados com Python - Coursera/IBM](https://github.com/JoseWRPereira/jupyter-lab/blob/1d87cae21f95f6417f7c20d893289ee04ef60d65/Coursera-IBM/data_visualization.ipynb)
+    * [Curso de Python do Zero ao DS - Profª Meigarom/Seja um Data Scientist](https://github.com/JoseWRPereira/jupyter-lab/blob/40af967eb7b5deb0642ca35b0cfdbd82ce9caaf6/Meigarom-DoZeroAoDS/houserocket-10.ipynb)
 #
 
 # Preparando o ambiente de trabalho
